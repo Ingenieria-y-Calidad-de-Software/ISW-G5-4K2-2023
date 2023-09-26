@@ -20,18 +20,18 @@
 
 | Nombre del ítem de configuracion | Regla de nombrado | Ubicación Física | Tipo de ítem |
 | -------------------------------- | ----------------- | ---------------- | ------------ |
-| Documento de Plan de Configuración | ISW-Plan-SCM-<año>.pdf | ISW-G5-4K2-2023 | 
-| Modalidad Académica | ISW-Modalidad-Académica-<año>.pdf | ISW-G5-4K2-2023/General | General |
-| Material Bibliografico |ISW-<nombreMaterial>.pdf |ISW-G5-4K2-2023/Conceptual/Bibliografía | Conceptual |
-| Presentación de clase | ISW-<nroUnidad>-<tema>-<año>.pdf | ISW-G5-4K2-2023/Conceptual/Unidad-# | Conceptual |
-| Guía Trabajos Prácticos Evaluables | ISW-Guia-Trabajos-Evaluables-<año>.pdf | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables | Aplicación-Práctica |
-| Guía Trabajos Prácticos Resueltos | ISW-Guia-Trabajos-Resueltos-<año>.pdf | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Resueltos | Aplicación-Práctica |
-| Guía Presentación de trabajos conceptuales | ISW-Guia-Trabajos-Evaluables-<año>.pdf | ISW-G5-4K2-2023/Conceptual/Trabajos-Investigación | Aplicación-Práctica |
-| Link a clases grabadas | ISW-Clases-Grabadas-<año>.xlsx | ISW-G5-4K2-2023/General | General |
-| Código fuente | ISW-<nombreClase>.<extensión> | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables/Resolución-Evaluable-# | Aplicación-Práctica |
-| Resumen de Unidad | ISW-Resumen-Unidad-<nroUnidad>.pdf | ISW-G5-4K2-2023/Conceptual/Unidad-# | Conceptual |
-| Resolución TP Resuelto | ISW-Resolución-Resuelto-<nroResuelto>-<nombreIntegrante>.<extension> | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Resueltos | Aplicación-Práctica |
-| Resolución TP Evaluable | ISW-Resolución-Evaluable-<nroEvaluable>-<nombreIntegrante>.<extension> | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Resueltos | Aplicación-Práctica |
+| Documento de Plan de Configuración | ISW-Plan-SCM-< año >.pdf | ISW-G5-4K2-2023 | 
+| Modalidad Académica | ISW-Modalidad-Académica-< año >.pdf | ISW-G5-4K2-2023/General | General |
+| Material Bibliografico |ISW-< nombreMaterial >.pdf |ISW-G5-4K2-2023/Conceptual/Bibliografía | Conceptual |
+| Presentación de clase | ISW-< nroUnidad >-< tema >-< año >.pdf | ISW-G5-4K2-2023/Conceptual/Unidad-# | Conceptual |
+| Guía Trabajos Prácticos Evaluables | ISW-Guia-Trabajos-Evaluables-< año >.pdf | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables | Aplicación-Práctica |
+| Guía Trabajos Prácticos Resueltos | ISW-Guia-Trabajos-Resueltos-< año >.pdf | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Resueltos | Aplicación-Práctica |
+| Guía Presentación de trabajos conceptuales | ISW-Guia-Trabajos-Evaluables-< año >.pdf | ISW-G5-4K2-2023/Conceptual/Trabajos-Investigación | Aplicación-Práctica |
+| Link a clases grabadas | ISW-Clases-Grabadas-< año >.xlsx | ISW-G5-4K2-2023/General | General |
+| Código fuente | ISW-< nombreClase >.<extensión> | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables/Resolución-Evaluable-# | Aplicación-Práctica |
+| Resumen de Unidad | ISW-Resumen-Unidad-< nroUnidad >.pdf | ISW-G5-4K2-2023/Conceptual/Unidad-# | Conceptual |
+| Resolución TP Resuelto | ISW-Resolución-Resuelto-< nroResuelto >-< nombreIntegrante >.< extension > | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Resueltos | Aplicación-Práctica |
+| Resolución TP Evaluable | ISW-Resolución-Evaluable-< nroEvaluable >-< nombreIntegrante >.< extension > | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables | Aplicación-Práctica |
 
 
 
@@ -45,9 +45,10 @@
 | <año> | Año de creación archivo. |
 | < nombreIntegrante > | Nombre del integrante que sube el archivo. 
 | < nombreClase > | Nombre que identifica a una clase implementada. |
-| < extension > |Nombre de la extensión de un archivo identificado como ítem de configuración. Las más utilizadas son: .docx, .pdf, .js, .jsx, .html, .css, .xlsx |
+| < extension > |Nombre de la extensión de un archivo identificado como ítem de configuración. Las más utilizadas son: .docx, .pdf, .js, .jsx, .html, .css, .xlsx, .rar |
 | < nroUnidad > |Hace referencia al número de unidades definidas. |
 | < nroResuelto > |Hace referencia al número del trabajo práctico con resolución correspondiente |
+| < nroEvaluable > |Hace referencia al número del trabajo práctico evaluable |
 | < nombreMaterial > |Nombre del libro o material bibliográfico. |
 | # |Hace referencia al número de nombre de archivo, que va de 1 a N |
 
