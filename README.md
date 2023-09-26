@@ -40,13 +40,13 @@
 | ------- | ----------- |
 | ISW | Ingeniería y Calidad de software.|
 | G5 |Grupo 5. |
-| <año> |Año de creación archivo. |
-| <nombreIntegrante> |Nombre del integrante que sube el archivo. 
-| <nombreClase> |Nombre que identifica a una clase implementada. |
-| <extension> |Nombre de la extensión de un archivo identificado como ítem de configuración. Las más utilizadas son: .docx, .pdf, .js, .jsx, .html, .css, .xlsx |
-| <nroUnidad> |Hace referencia al número de unidades definidas. |
-| <nroResuelto> |Hace referencia al número del trabajo práctico con resolución correspondiente |
-| <nombreMaterial> |Nombre del libro o material bibliográfico. |
+| <año> | Año de creación archivo. |
+| < nombreIntegrante > | Nombre del integrante que sube el archivo. 
+| < nombreClase > | Nombre que identifica a una clase implementada. |
+| < extension > |Nombre de la extensión de un archivo identificado como ítem de configuración. Las más utilizadas son: .docx, .pdf, .js, .jsx, .html, .css, .xlsx |
+| < nroUnidad > |Hace referencia al número de unidades definidas. |
+| < nroResuelto > |Hace referencia al número del trabajo práctico con resolución correspondiente |
+| < nombreMaterial > |Nombre del libro o material bibliográfico. |
 | # |Hace referencia al número de nombre de archivo, que va de 1 a N |
 
 
