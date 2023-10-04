@@ -31,7 +31,7 @@
 | Código fuente | ISW-< nombreClase >.<extensión> | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables/Resolución-Evaluable-# | Aplicación-Práctica |
 | Resumen de Unidad | ISW-Resumen-Unidad-< nroUnidad >.pdf | ISW-G5-4K2-2023/Conceptual/Unidad-# | Conceptual |
 | Resolución TP Resuelto | ISW-Resolución-Resuelto-< nroResuelto >-< nombreIntegrante >.< extension > | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Resueltos | Aplicación-Práctica |
-| Resolución TP Evaluable | ISW-Resolución-Evaluable-< nroEvaluable >-< nombreIntegrante >.< extension > | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables | Aplicación-Práctica |
+| Resolución TP Evaluable | ISW-Resolución-Evaluable-< nroEvaluable >.< extension > | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables | Aplicación-Práctica |
 
 
 
