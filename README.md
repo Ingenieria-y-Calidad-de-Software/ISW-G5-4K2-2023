@@ -65,11 +65,12 @@
 
 ## Criterio de Línea base
 
-La primera línea base está definida a partir de la entrega del Trabajo
-Práctico 4: Herramientas de SCM.
+### Objetivo:
+Establecer un punto de referencia para el repositorio de la asignatura que sirva como fuente de información confiable, para los miembros del equipo y stakeholders, asegurando la fiabilidad y estabilidad de la misma.
 
-Se define la revisión de la línea base luego de entregar y recibir la
-corrección de los trabajos prácticos evaluables, y luego de haber
-rendido los exámenes parciales de la cátedra, así como también los no
-evaluables que se trabajen en las clases de aplicación práctica una vez
-controlados y debatidos con la/el docente.
+### Revisión de la información a ser incluída en cada línea base
+Cada modificación incluída en el repositorio será revisada por todos los integrantes del equipo antes de ser incluída en la rama principal “main”. Se define dicha revisión de la línea base luego de entregar y recibir la corrección de los trabajos prácticos evaluables, y luego de haber rendido los exámenes parciales de la cátedra, así como también los no evaluables que se trabajen en las clases de aplicación práctica una vez controlados y debatidos con la/el docente.
+
+### ¿Cuál es la información que se incluye en cada línea base?
+Las líneas base incluirán todos los ítems de configuración mencionados anteriormente, generados durante el cursado de la asignatura. La primera línea base está definida a partir de la entrega del Trabajo Práctico 4: Herramientas de SCM.
+
