@@ -56,8 +56,8 @@
 | < nroResuelto > |Hace referencia al número del trabajo práctico con resolución correspondiente |
 | < nroEvaluable > |Hace referencia al número del trabajo práctico evaluable |
 | < nombreMaterial > |Nombre del libro o material bibliográfico. |
-| <nombreTemplate> | Nombre del template. |
-| <nroParcial> | Hace referencia al parcial correspondiente, puede ser el primer o segundo parcial rendido. |
+| < nombreTemplate > | Nombre del template. |
+| < nroParcial > | Hace referencia al parcial correspondiente, puede ser el primer o segundo parcial rendido. |
 | # |Hace referencia al número de nombre de archivo, que va de 1 a N |
 
 
