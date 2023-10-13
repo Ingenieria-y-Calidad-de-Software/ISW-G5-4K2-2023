@@ -12,9 +12,11 @@
      	* Unidad-N
   	* Aplicación-Práctica
   		* Trabajos-Prácticos-Evaluables
-  	 	* Resolución-Evaluable-1
-  	  	* Resolución-Evaluable-N
-	* Trabajos-Prácticos-Resueltos
+  	 		* Resolución-Evaluable-1
+  	  		* Resolución-Evaluable-N
+		* Trabajos-Prácticos-Resueltos
+  		* Templates
+  	 * Parciales
 
 ## Identificación de ítems de Configuración:
 
@@ -32,6 +34,10 @@
 | Resumen de Unidad | ISW-Resumen-Unidad-< nroUnidad >.pdf | ISW-G5-4K2-2023/Conceptual/Unidad-# | Conceptual |
 | Resolución TP Resuelto | ISW-Resolución-Resuelto-< nroResuelto >-< nombreIntegrante >.< extension > | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Resueltos | Aplicación-Práctica |
 | Resolución TP Evaluable | ISW-Resolución-Evaluable-< nroEvaluable >.< extension > | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables | Aplicación-Práctica |
+| Template | ISW-Template-< nombreTemplate >.pdf | ISW-G5-4K2-2023/Aplicación-Práctica/Templates | Aplicación-Práctica |
+| Simulacro | ISW-Simulacro-Parcial-/< nroParcial >.pdf | ISW-G5-4K2-2023/Parciales | Parciales |
+
+
 
 
 
@@ -50,7 +56,10 @@
 | < nroResuelto > |Hace referencia al número del trabajo práctico con resolución correspondiente |
 | < nroEvaluable > |Hace referencia al número del trabajo práctico evaluable |
 | < nombreMaterial > |Nombre del libro o material bibliográfico. |
+| <nombreTemplate> | Nombre del template. |
+| <nroParcial> | Hace referencia al parcial correspondiente, puede ser el primer o segundo parcial rendido. |
 | # |Hace referencia al número de nombre de archivo, que va de 1 a N |
+
 
 
 
