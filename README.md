@@ -28,7 +28,7 @@
 | Presentación de clase | ISW-< nroUnidad >-< tema >-< año >.pdf | ISW-G5-4K2-2023/Conceptual/Unidad-# | Conceptual |
 | Guía Trabajos Prácticos Evaluables | ISW-Guia-Trabajos-Evaluables-< año >.pdf | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables | Aplicación-Práctica |
 | Guía Trabajos Prácticos Resueltos | ISW-Guia-Trabajos-Resueltos-< año >.pdf | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Resueltos | Aplicación-Práctica |
-| Guía Presentación de trabajos conceptuales | ISW-Guia-Trabajos-Evaluables-< año >.pdf | ISW-G5-4K2-2023/Conceptual/Trabajos-Investigación | Aplicación-Práctica |
+| Guía Presentación de trabajos conceptuales | ISW-Guia-Trabajos-Evaluables-< año >.pdf | ISW-G5-4K2-2023/Conceptual/Trabajos-Investigación | Conceptual |
 | Link a clases grabadas | ISW-Clases-Grabadas-< año >.xlsx | ISW-G5-4K2-2023/General | General |
 | Código fuente | ISW-< nombreClase >.<extensión> | ISW-G5-4K2-2023/Aplicación-Práctica/Trabajos-Prácticos-Evaluables/Resolución-Evaluable-# | Aplicación-Práctica |
 | Resumen de Unidad | ISW-Resumen-Unidad-< nroUnidad >.pdf | ISW-G5-4K2-2023/Conceptual/Unidad-# | Conceptual |
